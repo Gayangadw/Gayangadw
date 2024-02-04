@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayangadw&label=Profile%20views&color=0e75b6&style=flat" alt="gayangadw" /> </p>
 
-- I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer(UG), currently studying in 3rh year at Department of Electronic and Telecommunication Engineering, General sir john kotelawala defence university, Sri Lanka. 
+- I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer(UG), currently studying in 3rd year at Department of Electronic and Telecommunication Engineering, General sir john kotelawala defence university, Sri Lanka. 
 
 - 👨‍💻 I am currently learning **nodeJS**
 
