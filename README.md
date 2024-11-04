@@ -5,7 +5,7 @@
 
 - I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer(UG), currently studying in 3rd year at Department of Electronic and Telecommunication Engineering, General sir john kotelawala defence university, Sri Lanka. 
 
-- 👨‍💻 I am currently learning **React**
+- 👨‍💻 I am currently learning **Halcon**
 
 - 📫 How to reach me **gayangadw@gmail.com**
 
