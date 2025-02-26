@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayangadw&label=Profile%20views&color=0e75b6&style=flat" alt="gayangadw" /> </p>
 
-- I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer (UG), currently studying in 3rd year at the Department of Electronic and Telecommunication Engineering, General Sir John Kotelawala Defence University, Sri Lanka.
+- I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer (UG), currently studying in final year at the Department of Electronic and Telecommunication Engineering, General Sir John Kotelawala Defence University, Sri Lanka.
 
 - 💼 Currently, I am working as a **Trainee AI/ML Engineer at Ansell Lanka (Pvt) Ltd**.
 
-- 🤖 I am currently learning **PLC programming** and **Machine Vision techniques**.
+- 🤖 I am currently learning Backend Web Developing with Django.
 
 - 📫 How to reach me: **gayangadw@gmail.com**
 
