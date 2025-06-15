@@ -7,7 +7,7 @@
 
 - 💼 Currently, I am working as a **Trainee AI/ML Engineer at Ansell Lanka (Pvt) Ltd**.
 
-- 🤖 I am currently learning Backend Web Developing with Django.
+- 🤖 currently I am learning Blender & Unity.
 
 - 📫 How to reach me: **gayangadw@gmail.com**
 
