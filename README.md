@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayangadw&label=Profile%20views&color=0e75b6&style=flat" alt="gayangadw" /> </p>
 
 - I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer (UG), currently studying in final year at the Department of Electronic and Telecommunication Engineering, General Sir John Kotelawala Defence University, Sri Lanka.
+<h3 align="center">A passionate AI/ML & Computer vision from Sri lanka</h3>
 
-- 💼 Currently, I am working as a **Trainee AI/ML Engineer at Ansell Lanka (Pvt) Ltd**.
+- 🔭 I’m currently working on **Human mesh Generation**
 
-- 🤖 currently I am learning Blender & Unity.
+- 🌱 I’m currently learning **Blender,Unity,SketchUp**
 
-- 📫 How to reach me: **gayangadw@gmail.com**
-
+- 📫 How to reach me **gayangadw@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gayanga-wijesekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayanga wijesekara" height="30" width="40" /></a>
