@@ -6,7 +6,7 @@
 - I'm Gayanga Dulanjana, an Electronic and Telecommunication Engineer (UG), currently studying in final year at the Department of Electronic and Telecommunication Engineering, General Sir John Kotelawala Defence University, Sri Lanka.
 <h3 align="center"> - A passionate AI/ML & Computer vision from Sri lanka</h3>
 
-- 🔭 Currently I am working on **Human mesh Generation**
+- 🔭 Currently I am working on my Final Year Research of **Multiple Humans Mesh Reconstruction**
 
 - 🌱 Currently I am learning **Blender,Unity,SketchUp**
 
